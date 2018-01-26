@@ -1,0 +1,2 @@
+# serverTheaccmc
+mineServer
